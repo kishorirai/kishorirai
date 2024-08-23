@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @kishorirai
-- 👀 I’m interested in Web developing
-- 🌱 I’m currently learning C++
 
 
 <!---
