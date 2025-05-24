@@ -126,7 +126,7 @@ I'm a passionate developer who thrives at the intersection of **Artificial Intel
 - LangChain integration with OpenAI GPT models
 - Vector similarity search with comprehensive document understanding
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-success?style=for-the-badge)](https://smart-doc-assistant.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-success?style=for-the-badge)](https://smart-document-assistant-bqceimddxzdbuupforuucv.streamlit.app/)
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
