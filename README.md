@@ -134,11 +134,10 @@ I'm a passionate developer who thrives at the intersection of **Artificial Intel
 ---
 ## 📊 GitHub Analytics
 
-
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorirai&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorirai&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+
 
 ## 🌟 What I'm Up To
 
