@@ -96,53 +96,6 @@ I'm a passionate developer who thrives at the intersection of **Artificial Intel
 
 ---
 
-## 🏆 Featured Projects
-
-### 🔒 [Credit Card Fraud Detection](https://github.com/kishorirai/credit-card-fraud-detection)
-**Machine Learning + Real-time Analytics**
-- Built an intelligent fraud detection system with 99.2% accuracy
-- Interactive Streamlit dashboard with CSV upload functionality
-- Deployed ML pipeline with comprehensive data visualization
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-success?style=for-the-badge)](https://kishori-credit-card-fraud-detection-fewdf.streamlit.app/)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### 📝 [Smart Habit Tracker](https://github.com/kishorirai/habit-tracker)
-**Full-Stack MERN Application**
-- Personal productivity tracker with advanced analytics dashboard
-- Real-time habit monitoring with streak tracking and insights
-- Modern UI with TypeScript integration and responsive design
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-success?style=for-the-badge)](https://habit-tracker-six-smoky.vercel.app/)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### 🤖 [Smart Document Assistant](https://github.com/kishorirai/smart-doc-assistant)
-**GenAI-Powered PDF Chatbot**
-- Intelligent document Q&A system using advanced RAG architecture
-- LangChain integration with OpenAI GPT models
-- Vector similarity search with comprehensive document understanding
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-success?style=for-the-badge)](https://smart-document-assistant-bqceimddxzdbuupforuucv.streamlit.app/)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
----
-
-
-## 🌟 What I'm Up To
-
-- 🔭 Currently working on **Advanced GenAI Applications** and **MLOps Pipelines**
-- 🌱 Learning **Web3 Integration** and **Advanced Three.js Techniques**
-- 👯 Looking to collaborate on **AI-powered web applications** and **open-source ML projects**
-- 💬 Ask me about **React**, **Machine Learning**, **GenAI**, or **Full-Stack Development**
-- ⚡ Fun fact: I can debug code faster with music on 🎵
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -154,7 +107,6 @@ I'm a passionate developer who thrives at the intersection of **Artificial Intel
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorirai02@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-kishorirais-projects.vercel.app/)
 
-### 💭 *"Innovation distinguishes between a leader and a follower."*
 
 </div>
 
